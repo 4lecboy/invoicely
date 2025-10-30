@@ -12,7 +12,7 @@ A modern invoicing application designed for freelancers to create, manage, and t
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
+- Next.js 16 (App Router)
 - TypeScript
 - Tailwind CSS
 - Supabase
